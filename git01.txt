@@ -1,3 +1,8 @@
 Hi All 
 
 this is our git session by Vijay..
+
+
+-------------------
+
+Adding few text to this file ..
