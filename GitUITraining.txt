@@ -1,3 +1,6 @@
 I have added new file to git ..
 
 from git client ..
+
+
+Some text added to develop branch ..
